@@ -1,0 +1,85 @@
+Nº de registros: 7043
+Receita Mensal: 456.116,60
+Receita Anual: 16.056.168,70
+Taxa de churn rate: 26,53%
+MRR Churn: 51,44%
+Churn Receita Anual:17,83%
+
+2793 de pessoas na base de dados não tem acesso aos serviços de segurança
+essa população representa 39,65% da população total
+
+
+------------------------------------------------------------------------------
+
+Nº de clientes desligado: 1869
+Valor de receita mensal: 139.130,85
+Custo Anual: 2.862.926,90
+17,83% valor total da receita
+
+50,24% da população do churn são mulheres
+Homens:930
+Homens Idosos: 236 - 25,37%
+Mulheres:939
+Mulheres Idosas: 240 - 25,55%
+
+serviço mais contratados:Fibra otica
+serviço menos contratados:Segurança em geral
+718 pessoas não tem nenhuma segurança representa 38,41% da população
+113 pessoas não tem acesso a internet que representa 6% da população
+então temos 44,46% da população sem acesso a segurança online 
+
+90,90% tem serviço telefonico
+45,47% tem multiplas linhas
+69,39% tem fibra otica como serviço de internet
+78% não tem segurança online
+65% não tem backup online
+65% não tem proteção de dispositivo
+77% não tem suporte tecnico
+50% não tem tv a cabo e nem filmes
+
+Média de pagamento dos clientes que não tem nenhuma segurança 63R$
+Receita: 53.107,65
+Receita Anual: 550.158.30
+População: 831 pessoas equivalente a 44,46% da população total
+
+Média de pagamento dos clientes que tem todos os serviços de segurança: 98R$
+Receita: 2.456,75 - representa 4,62% da receita das pessoas sem segurança
+Receita Anual: 127.280,75 - 4,44% da receita anual de toda população e 23,13% equivalente a receita da população sem segurança
+População: 25 pessoas equivalente a 1,33% da população total e 3% da população sem segurança
+
+
+-----------------------------------------------------------------------------------------------
+Nº de clientes ativos: 5174
+Valor de receita mensal:316.985,75
+Custo total: 13.193.241.80
+82,16% do valor total da receita
+
+50,73% das pessoas ativas são homens
+Homens:2625
+Homens Idosos: 338 - 12,87%
+Mulheres:2549
+Mulheres Idosas: 328 - 12,86%
+
+seviço mais contratados: DSL
+serviço menos contratados: segurança em geral
+549 pessoas não tem nenhuma segurança e isso representa 10,61% da população ativa
+1413 pessoas não tem acesso a internert e isso representa 27,30% da população ativa
+então temos 1962 pessoas que é equivalente a 37,91% da população ativa sem acesso aos serviços de segurança
+
+90,10% tem serviço telefonico
+49,09% não tem multiplas linhas
+37,92% tem DSL como seviço de internet
+39,36% não tem segurança online
+36,83% Tem backup
+36,41% Não tem proteção de dispositivo
+39,17% Não tem suporte tecnico
+
+Média de pagamento dos clientes que não tem nenhuma segurança 33R$
+Receita: 64.929,85 - representa 20,48% da receita mensal 
+Anual: 1.635.642,80 - representa 12,39% da receita anual
+1962 pessoas sem acesso aos serviços de segurança equivalente a 37,91% da população ativa
+
+Média de pagamento dos clientes que tem todos os serviços de segurança 90R$
+Receita: 40.274,95 - Representa 12,70% da receita mensal
+Anual: 2.535.829,05 - Representa 19,22% da receita anual
+445 pessoas tem todos os serviços de segurança - 8,60% da população ativa e 22,68% da população que não tem acesso a serviço de segurança
